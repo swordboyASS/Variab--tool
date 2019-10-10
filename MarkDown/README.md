@@ -200,7 +200,7 @@ Markdown 脚注的格式如下:
 
 
 <!--以上传后文件，复制图片地址来添加图片-->
-![萌妹子](https://github.com/swordboyASS/Markdown--/blob/master/001/0.jpeg?raw=true)
+![萌妹子](0.jpeg)
     
 
 ## 创建一个文件夹存放大量图片(/)
